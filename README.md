@@ -7,7 +7,7 @@ Physicist | Data Analyst | Data Scientist
 [LinkedIn](https://www.linkedin.com/in/juan-david-martinez-salazar-211229212/) · [Kaggle](https://www.kaggle.com/juandavidmartinezsa) · [Email](mailto:juandavid9563ft@gmail.com)
 
 ### Stack
-![Stack]([![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,matlab,aws)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,matlab,aws)
 
 Also: SQL · SQLite and Excel
 
