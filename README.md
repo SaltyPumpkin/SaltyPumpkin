@@ -1,5 +1,5 @@
 
-# Hi, My Name is Pumpkin
+# Hi, I'm Pumpkin
 
 My real name is Juan · COL \
 Physicist | Data Analyst | Data Scientist
