@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**SaltyPumpkin/SaltyPumpkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, My Name is Pumpkin
 
-Here are some ideas to get you started:
+My real name is Juan · COL \
+Physicist | Data Analyst | Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/juan-david-martinez-salazar-211229212/) · [Kaggle](https://www.kaggle.com/juandavidmartinezsa) · [Email](mailto:juandavid9563ft@gmail.com)
+
+### Stack
+![Stack]([![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,matlab,aws)
+
+Also: SQL · SQLite and Excel
+
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=SaltyPumpkin&theme=tokyonight&custom_title=Pumpkin)
+
+![Top Languages](https://ghstats.dev/api/langs?username=SaltyPumpkin&theme=tokyonight&custom_title=Pumpkin&max_langs=4)
